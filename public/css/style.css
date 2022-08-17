@@ -1,0 +1,43 @@
+html,
+body {
+    height: 100%;
+    background: whitesmoke;
+}
+
+#navbar{
+    background: #707f79;
+    color:white;
+    height: 50px;
+}
+
+#green{
+    background: #2cc185
+}
+
+#sidebar {
+    height: 100%;
+    background: #2cc185;
+    text-align: center;
+    color: white;
+    position:-webkit-sticky;
+}
+
+#table{
+    background: white;
+}
+
+#navcon{
+    font-size: large;
+}
+
+#table-header{
+    background-color: #2cc185;
+    color: white;
+}
+
+#create-btn{
+    background-color: #2cc185;
+    color:rgb(255, 255, 255);
+    border-color: white;
+}
+
