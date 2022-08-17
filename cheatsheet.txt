@@ -1,0 +1,60 @@
+INSERT INTO `penghuni`(`no_pintu`, `nama`, `no_hp`, `email`, `tgl_msk`, `tarif`, `terbayar`, `stat_pembayaran`) VALUES   (15,'Gani','0812990820019','Gani@gmail.com','3022-03-10',500000,250000,'Tertunggak'),
+  (16,'Hani','0812990820012','Hani@gmail.com','2022-03-11',500000,250000,'Tertunggak'),
+  (17,'Jani','0812990820013','Jani@gmail.com','2022-03-12',500000,250000,'Lunas'),
+  (18,'Kani','0812990820016','Kani@gmail.com','2022-02-13',500000,250000,'Tertunggak'),
+  (19,'Lani','0812990820017','Lani@gmail.com','2022-02-14',500000,250000,'Lunas'),
+  (20,'Nani','0812990820020','Nani@gmail.com','3022-03-15',500000,250000,'Lunas');
+
+route js & css
+https://stackoverflow.com/questions/13433683/using-css-in-laravel-views
+
+<link rel="stylesheet" type="text/css" href="{{ URL::to('route/to/css') }}">
+<link rel="stylesheet" type="text/css" href="{{ URL::to('css/main.css') }}">
+
+alternate
+<script type="text/javascript" src="exer_1.js"></script>
+
+bootstrap
+col : https://bootstrap-vue.org/docs/components/layout
+card : https://getbootstrap.com/docs/4.0/components/card/
+modal : https://getbootstrap.com/docs/4.0/components/modal/
+sort table : https://mdbootstrap.com/docs/b4/jquery/tables/sort/#enable-disable-pagination
+
+icon
+https://www.w3schools.com/icons/icons_reference.asp
+https://fontawesome.com/icons
+
+overlap sidebar
+https://stackoverflow.com/questions/48282998/sidebar-and-navbar-overlapping
+https://stackoverflow.com/questions/39478490/positioning-a-header-bar-next-to-a-sidebar
+
+cdn
+font awesome : https://cdnjs.com/libraries/font-awesome
+
+youtube
+modal :
+https://www.youtube.com/watch?v=H4ozOMDDuKA
+https://www.youtube.com/watch?v=VuKaLT_dL14
+
+sort table :
+https://www.youtube.com/watch?v=yGBk9Nalyq8
+
+delete
+https://www.tutorialspoint.com/laravel/delete_records.htm
+https://www.codegrepper.com/code-examples/php/laravel+form+method+delete
+
+color
+https://colors.muz.li/palette/2cc185/1f8770/cefff4/9dffea/ffffff
+https://www.colorabout.com/color/hex/50c878/
+https://www.colorabout.com/color/hex/2cc185/
+https://www.colorabout.com/color/hex/cefff4/
+
+img
+https://apartmentlove.com/blogPhotos/1629699100/Rent to Own Homes in Houston TX.jpg
+
+template landpage
+https://startbootstrap.com/theme/creative
+https://blog.hubspot.com/marketing/free-landing-page-templates
+https://colorlib.com/wp/template/art-museum/
+https://colorlib.com/wp/template/reopen/
+https://colorlib.com/wp/template/industry/
